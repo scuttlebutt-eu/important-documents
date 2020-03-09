@@ -32,11 +32,12 @@ After the successful bootstrap of the Buttsortium, Founders will essentially bec
 **Criteria (for individuals)**
 1. Pay a monthly membership fee of 10 Euros (which can be paid in advance for up to 12 months)
 2. Be actively vouched for by at least 5 active members (see “Membership Split” for limit cases)
-3. Have physical or legal presence in Europe, or be involved in an active consortium project with at least one member with a physical or legal presence in Europe
-4. If not a member for the last 12 months:
+3. Have attended at least 1 of the last 3 physical gatherings.
+4. Have physical or legal presence in Europe, or be involved in an active consortium project with at least one member with a physical or legal presence in Europe
+5. If not a member for the last 12 months:
     1. Publicly introduced themselves to the existing members (ex: background, motivation, skills, etc.)
     2. Have made recognized contributions to the larger SSB community (ex: tools, artwork, community gardening, volunteering, etc.)
-5. If a member for the last 12 months: 
+6. If a member for the last 12 months: 
     1. Voted in the last annual general assembly
     2. Performed >=10h of recognized volunteering work for the consortium over the last 12 months, beside voting and participation in meetings.
 
