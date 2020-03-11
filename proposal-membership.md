@@ -27,7 +27,7 @@ After the successful bootstrap of the Buttsortium, Founders will essentially bec
 1. **Financial stake**: high enough for serious commitment but low enough to be accessible.
 2. **Trust**: The consortium aims to have a high trust level in the group by seeing each other as individuals as part of contexts. This is achieved by maintaining regular communication, distributing care labour and being mindful of hierarchies that may arise.
 3. **European**: be related to European activities.
-4. **Active participation**: members must make regular contributions to maintain their active status.
+4. **Active participation**: as a member one actively takes part in the practices that have been agreed upon by the collective.
 
 **Criteria (for individuals)**
 1. Pay an optional monthly membership fee of 10 Euros (which can be paid in advance for up to 12 months. The spending of this pot should be transparent to the members.
