@@ -40,8 +40,8 @@ After the successful bootstrap of the Buttsortium, Founders will essentially bec
     1. Voted in the last annual general assembly
     2. Performed >=10h of recognized volunteering work for the consortium over the last 12 months, beside voting and participation in meetings.
 
-If a member fails to fulfill some of the criteria above, they enter a 1 month grace period. Another member will contact them about this. If the contacted member does not re-fulfill all criteria within the grace period, they automatically become a “Past Member”. (see “Recognizing Past Members” below)
-
+ If a member fails to maintain their active status by omitting to fulfill some of the criteria above, they enter a 12 month grace period. Another member will contact them about this. If the contacted member does not re-fulfill all criteria within the grace period, they automatically become a “Past Member”. (see “Recognizing Past Members” below)
+ 
 ### Bootstrap
 
 A Founder is considered an active member for the sake of vouching if they are themselves vouched by at least 5 other Founders.
