@@ -24,7 +24,7 @@ After the successful bootstrap of the Buttsortium, Founders will essentially bec
 **Responsibility**: Keep the consortium going.
 
 **Membership Principles**
-1. **Financial stake**: high enough for serious commitment but low enough to be accessible.
+1. **Financial stake**: A baseline yearly cost suggestion calculated based on potential costs of meetups with transparency as to why. Then make it an option for individuals to set their own contributions depending on the persons financial situation.
 2. **Trust**: existing active members have to actively pull new members and keep other existing members in.
 3. **European**: be related to European activities.
 4. **Active participation**: members must make regular contributions to maintain their active status.
