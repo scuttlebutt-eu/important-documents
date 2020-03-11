@@ -21,7 +21,6 @@ After the successful bootstrap of the Buttsortium, Founders will essentially bec
 
 ## Active Members
 
-**Responsibility**: Keep the consortium going.
 
 **Membership Principles**
 1. **Financial stake**: high enough for serious commitment but low enough to be accessible.
