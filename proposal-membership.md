@@ -25,7 +25,7 @@ After the successful bootstrap of the Buttsortium, Founders will essentially bec
 
 **Membership Principles**
 1. **Financial stake**: high enough for serious commitment but low enough to be accessible.
-2. **Trust**: existing active members have to actively pull new members and keep other existing members in.
+2. **Trust**: The consortium aims to have a high trust level in the group by seeing each other as individuals as part of contexts. This is achieved by maintaining regular communication, distributing care labour and being mindful of hierarchies that may arise.
 3. **European**: be related to European activities.
 4. **Active participation**: members must make regular contributions to maintain their active status.
 
