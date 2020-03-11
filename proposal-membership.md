@@ -27,7 +27,7 @@ After the successful bootstrap of the Buttsortium, Founders will essentially bec
 1. **Financial stake**: high enough for serious commitment but low enough to be accessible.
 2. **Trust**: existing active members have to actively pull new members and keep other existing members in.
 3. **European**: be related to European activities.
-4. **Active participation**: members must make regular contributions to maintain their active status.
+4. **Active participation**: as a member one actively takes part in the practices that have been agreed upon by the collective.
 
 **Criteria (for individuals)**
 1. Pay a monthly membership fee of 10 Euros (which can be paid in advance for up to 12 months)
