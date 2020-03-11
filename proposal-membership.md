@@ -21,22 +21,22 @@ After the successful bootstrap of the Buttsortium, Founders will essentially bec
 
 ## Active Members
 
-**Responsibility**: Keep the consortium going.
 
 **Membership Principles**
 1. **Financial stake**: high enough for serious commitment but low enough to be accessible.
-2. **Trust**: existing active members have to actively pull new members and keep other existing members in.
+2. **Trust**: The consortium aims to have a high trust level in the group by seeing each other as individuals as part of contexts. This is achieved by maintaining regular communication, distributing care labour and being mindful of hierarchies that may arise.
 3. **European**: be related to European activities.
-4. **Active participation**: members must make regular contributions to maintain their active status.
+4. **Active participation**: as a member one actively takes part in the practices that have been agreed upon by the collective.
 
 **Criteria (for individuals)**
-1. Pay a monthly membership fee of 10 Euros (which can be paid in advance for up to 12 months)
+1. Pay an optional monthly membership fee of 10 Euros (which can be paid in advance for up to 12 months. The spending of this pot should be transparent to the members.
 2. Be actively vouched for by at least 5 active members (see “Membership Split” for limit cases)
 3. Have physical or legal presence in Europe, or be involved in an active consortium project with at least one member with a physical or legal presence in Europe
 4. If not a member for the last 12 months:
     1. Publicly introduced themselves to the existing members (ex: background, motivation, skills, etc.)
 5. If a member for the last 12 months: 
     1. Voted in the last annual general assembly
+    2. Have attended at least 1 of the last 3 physical gatherings.
 
 If a member fails to maintain their active status by omitting to fulfill some of the criteria above, they become an “Inactive Member” for up to a year, and loose voting rights. An active member will contact them to understand why. The “Inactive Member” can then choose to: (1) fulfill the criteria to become “Active” again, or (2) become a “Past Member”. In the absence of answer, after one year of “Inactive” status, they automatically become “Past Members”. (see “Recognizing Past Members” below)
 
