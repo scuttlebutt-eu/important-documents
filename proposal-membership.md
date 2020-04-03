@@ -26,9 +26,8 @@ If a member fails to maintain their active status by omitting to fulfill some of
 ### Membership Split
 
 If some members stop vouching other members such that membership would split in disjoint groups:
- 1. The group including the largest number of [TBD] is the official consortium;
- 2. otherwise, the largest group is the official consortium;
- 3. otherwise, the consortium is dissolved and its assets are liquidated and transferred to the Secure-Scuttlebutt Consortium Open Collective.
+ 1. The largest group is the official consortium;
+ 2. otherwise, the consortium is dissolved and its assets are liquidated and transferred to the Secure-Scuttlebutt Consortium Open Collective.
 
 The other disjoint groups shall create new consortiums with different names.
 
