@@ -23,7 +23,7 @@ After the successful bootstrap of the Buttsortium, Founders will essentially bec
 
 
 **Membership Principles**
-1. **Financial stake**: A baseline yearly cost suggestion calculated based on potential costs of meetups with transparency as to why. Then make it an option for individuals to set their own contributions depending on the persons financial situation.
+1. **Financial stake**: The consortium wishes that each member recurrently contributes financially to the consortium, with the goal of covering costs for meetups. The contribution amount from each member should be flexible to their financial situation, but we suggest a default contribution amount as a baseline.
 2. **Trust**: The consortium aims to have a high trust level in the group by seeing each other as individuals as part of contexts. This is achieved by maintaining regular communication, distributing care labour and being mindful of hierarchies that may arise.
 3. **European**: be related to European activities.
 4. **Active participation**: as a member one actively takes part in the practices that have been agreed upon by the collective.
