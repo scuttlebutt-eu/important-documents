@@ -4,7 +4,7 @@
 
 
 **Membership Principles**
-1. **Financial stake**: high enough for serious commitment but low enough to be accessible.
+1. **Financial stake**: The consortium wishes that each member recurrently contributes financially to the consortium, with the goal of covering costs for collective purposes, such as meetups and others. The contribution amount from each member should be flexible to their financial situation, but we suggest a default contribution amount as a baseline.
 2. **Trust**: The consortium aims to have a high trust level in the group by seeing each other as individuals as part of contexts. This is achieved by maintaining regular communication, distributing care labour and being mindful of hierarchies that may arise.
 3. **European**: be related to European activities.
 4. **Active participation**: as a member one actively takes part in the practices that have been agreed upon by the collective.
