@@ -1,24 +1,5 @@
 # Membership
 
-## Founders
-
-**Responsibility**: Get the first version of the EU Buttsortium up and running.
-
-**Criteria** 
-1. Actively participate in at least 3 buttsortium meetings
-   1. Provide personal answers to ongoing questions
-   2. Be present and active in audio/in-person meetings
-2. Volunteer for at least 25h on tasks required for bootstrap (beside meetings, unless facilitating):
-   1. Facilitate meetings
-   2. Organize the next meeting date
-   3. Organize notes
-   4. Prepare the website
-   5. etc.
-
-Erick volunteers to log the tasks performed by all Founders (including his and the 3h it took to articulate and revise this document).
-
-After the successful bootstrap of the Buttsortium, Founders will essentially become regular members (except for the sake of resolving Membership Split, see below). They will still retain the honorific title for recognition in the bootstrapping effort.
-
 ## Active Members
 
 
@@ -42,16 +23,11 @@ After the successful bootstrap of the Buttsortium, Founders will essentially bec
 
 If a member fails to maintain their active status by omitting to fulfill some of the criteria above, they become an “Inactive Member” for up to a year, and loose voting rights. An active member will contact them to understand why. The “Inactive Member” can then choose to: (1) fulfill the criteria to become “Active” again, or (2) become a “Past Member”. In the absence of answer, after one year of “Inactive” status, they automatically become “Past Members”. (see “Recognizing Past Members” below)
 
-### Bootstrap
-
-A Founder is considered an active member for the sake of vouching if they are themselves vouched by at least 5 other Founders.
-
 ### Membership Split
 
 If some members stop vouching other members such that membership would split in disjoint groups:
- 1. The group including the largest number of Founders is the official consortium;
- 2. otherwise, the largest group is the official consortium;
- 3. otherwise, the consortium is dissolved and its assets are liquidated and transferred to the Secure-Scuttlebutt Consortium Open Collective.
+ 1. The largest group is the official consortium;
+ 2. otherwise, the consortium is dissolved and its assets are liquidated and transferred to the Secure-Scuttlebutt Consortium Open Collective.
 
 The other disjoint groups shall create new consortiums with different names.
 
