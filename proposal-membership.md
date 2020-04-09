@@ -31,6 +31,10 @@ If some members stop vouching other members such that membership would split in 
 
 The other disjoint groups shall create new consortiums with different names.
 
+### Member removal
+
+We don't wish to enact this, but in exceptional situations we may have to remove a member. The process we shall use is: (1) some member proposes the removal of a specific member, (2) all members except the removable member have one week to vote in `y`/`w`/`!`/`?` style to officially decide on removing or not, (3) during this one week, the removable member cannot themselves propose to remove another member, but otherwise have normal membership rights.
+
 ### Recognizing Past Members
 
 Recognition is based on mutual consent:
