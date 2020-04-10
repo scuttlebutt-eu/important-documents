@@ -10,7 +10,7 @@
 4. **Active participation**: as a member one actively takes part in the practices that have been agreed upon by the consortium.
 
 **Criteria (for individuals)**
-1. Pay an optional monthly membership fee of 10 Euros (which can be paid in advance for up to 12 months. The spending of this pot should be transparent to the members.
+1. Pay a baseline monthly membership fee of 10€ (which can be paid in advance for up to 12 months). See financial stake.
 2. Be actively vouched for by at least 3 active members (see “Membership Split” for limit cases)
 3. Have physical or legal presence in Europe, or be involved in an active consortium project with at least one member with a physical or legal presence in Europe
 4. If not a member for the last 12 months:
