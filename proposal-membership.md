@@ -1,22 +1,20 @@
 # Membership
 
-## Active Members
-
-
 **Membership Principles**
 1. **Financial stake**: The consortium wishes that each member recurrently contributes financially to the consortium, with the goal of covering costs for collective purposes, such as meetups and others. The contribution amount from each member should be flexible to their financial situation, but we suggest a default contribution amount as a baseline.
 2. **Trust**: The consortium aims to have a high trust level in the group by seeing each other as individuals as part of contexts. This is achieved by maintaining regular communication, distributing care labour and being mindful of hierarchies that may arise.
 3. **European**: be related to European activities.
 4. **Active participation**: as a member one actively takes part in the practices that have been agreed upon by the consortium.
 
-**Criteria (for individuals)**
+**Membership criteria**
 1. Pay an optional monthly membership fee of 10 Euros (which can be paid in advance for up to 12 months. The spending of this pot should be transparent to the members.
 2. Be actively vouched for by at least 3 active members (see “Membership Split” for limit cases)
 3. Have physical or legal presence in Europe, or be involved in an active consortium project with at least one member with a physical or legal presence in Europe
-4. If not a member for the last 12 months:
+4. Be a person (and not an organisation).
+5. If not a member for the last 12 months:
     1. Publicly introduced themselves to the existing members (ex: background, motivation, skills, etc.)
     2. Have made recognized contributions to the larger SSB community (ex: tools, artwork, community gardening, volunteering, etc.)
-5. If a member for the last 12 months: 
+6. If a member for the last 12 months: 
     1. Voted in the last annual general assembly
     2. Performed >=10h of recognized volunteering work for the consortium over the last 12 months, beside voting and participation in meetings.
     3. Have attended at least 1 of the last 3 physical gatherings.
