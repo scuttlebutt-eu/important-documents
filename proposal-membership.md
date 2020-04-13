@@ -39,8 +39,4 @@ Recognition is based on mutual consent:
 
   ## Modifying the Membership (this document)
   
-  The '(Y)es/(W)hatever/(?)Clarification/(!)Alternative Suggestion' decision process, explained in the [Voting Process](./voting-process.md) document, is used to make modifications or complete rewrites of this document. 
-  
-  Modifications that provide clarifications without changing the meaning of sections of this document are performed according to the [Voting Process](./voting-process.md). Modifications that do change the meaning of this document require the following more stringent criteria to be accepted, in addition to the usual requirements for regular proposals:
-  1. At least 50% + 1 of active members must have voted 'Yes' to the proposal.
-  2. The deadline for registering a vote is 30 days (````30 * 24h````) instead of 21 days.
+  The '(Y)es/(W)hatever/(?)Clarification/(!)Alternative Suggestion' decision process, explained in the [Voting Process](./voting-process.md) document, is used to make modifications or complete rewrites of this document.
