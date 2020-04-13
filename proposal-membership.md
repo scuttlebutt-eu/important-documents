@@ -36,3 +36,11 @@ The other disjoint groups shall create new consortiums with different names.
 Recognition is based on mutual consent:
   1. Active members are encouraged, but not obliged, to list “Past Members” and a summary of their contributions on the consortium’s public website for posterity.
   2. “Past Members” have the possibility, but no obligation, to be listed publicly on the consortium website. Their active consent will be sought by active members that want to recognize them, unless the past members are not able to give that consent anymore. In the latter case, the choice of listing or not the “Past Member” is left to the best judgement of the active members.
+
+  ## Modifying the Membership (this document)
+  
+  The '(Y)es/(W)hatever/(?)Clarification/(!)Alternative Suggestion' decision process, explained in the [Voting Process](./voting-process.md) document, is used to make modifications or complete rewrites of this document. 
+  
+  Modifications that provide clarifications without changing the meaning of sections of this document are performed according to the [Voting Process](./voting-process.md). Modifications that do change the meaning of this document require the following more stringent criteria to be accepted, in addition to the usual requirements for regular proposals:
+  1. At least 50% + 1 of active members must have voted 'Yes' to the proposal.
+  2. The deadline for registering a vote is 30 days (````30 * 24h````) instead of 21 days.
