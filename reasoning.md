@@ -26,3 +26,15 @@ Active membership entails voting (democracy) and meetings as a base, but importa
 One important side-effect of being an active member is that it fosters trust through active collaboration. Both for the parties involved in the collaboration but also for other members trusting in a good outcome. Furthermore, face-to-face gatherings over a weekend allows members to see each others as humans, laying the foundation for a culture of care. When nurtured this should expand into positive feedback loops that strengthens the consortium.
 
 The actual tasks required to maintain the consortium will evolve over time, therefore members are expected to actively keep informed on those. The actual processes used to ensure load-balancing will be experimented with and established over time.
+
+## Handling Conflicts
+
+As much as possible, we try to view conflicts as opportunities for growth, both in members and for the consortium: members have an opportunity to better understand the values and experiences they bring with them; the consortium gets an opportunity to revise its practices and documents. We therefore encourage members involved in a conflict to reflect and articulate their underlying personal needs and previous experiences that support their viewpoint. A clear understanding of both needs and past experiences, from all sides of a conflict, can make it easier to resolve, with, for example, voluntary behaviour changes from parties or revised practices in the consortium. This in turn leads to an increase in the level of trust and collaboration betwen members. This is the best case and preferred scenario.
+
+Sometimes, even with the best intentions from all sides, conflicts may be recurrent because, for example, of persisting personal habits or communication patterns. In this case, vouching members can remove their individual vouches for the other member(s) they perceive as problematic. This provides concrete consequences for problematic behaviour that provide an additional incentive for change.
+
+It is sometimes however not always possible to resolve all conflicts, especially when they are related to contradicting long-term visions or deeply-held values. In the cases where these tensions cannot cohabit in the same consortium, it is best for the different sides to recognize the situation and agree to an amicable split. If that cannot be achieved amicably, the largest group of the consortium can stop vouching for the smaller one (possibly comprised of a single individual), effectively removing them.
+
+## References
+
+[Diana Leaf Christian](https://en.wikipedia.org/wiki/Diana_Leafe_Christian), [Creating a Life Together: Practical Tools to Grow Ecovillages and Intentional Communities](https://dianaleafechristian.org/creating_a_life_together_practical_tools_to_grow_ecovillages_and_intentional_communities.html)
