@@ -2,7 +2,7 @@ Guide for starting a Peach:
 
 As inspired by [Patterns for Decentralized Organizing](https://docs.wixstatic.com/ugd/8246de_248a47ddbd3c4d209667ff5508ee300b.pdf), [IDOARRT](https://toolbox.hyperisland.com/idoarrt-meeting-design), [9 Artifacts To Seed a Project Team](http://kfjournal.org/wp/index.php/2015/10/19/9-artifacts-to-seed-a-project-team/) and [Pods](https://handbook.enspiral.com/guides/pods.html) and [Stewardship](https://loomio.coop/stewarding.html) from Enspiral. 
 
-This is a proposal for how you can [grow a peach](https://github.com/scuttlebutt-eu/important-documents/pull/33). Feel free to hack!  
+This is a proposal for how you can [grow a peach](https://github.com/scuttlebutt-eu/important-documents/pull/33). A peach is a form of working group which together built up the European Scuttlebutt Consortium tree. Feel free to hack!  
 
 1. Compassion Building - Make time to get to know each other (more)! Some ways to do this: Tell your life story to each other through life charts of highs and lows. Have meetings where you talk about other things than what you usually work with. Distribute care labour and strengthen the teams collective EQ. Set up a peer-to-peer support system like Stewardship.
 
