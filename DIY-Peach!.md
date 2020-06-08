@@ -15,5 +15,5 @@ This is a proposal for how you can grow a Peach. A Peach is a form of working gr
 	5. Action Item Tracking System - How do we track what needs to be done?
 
 3. **Culture**
-	1. Rituals - are practices that help boost the interactivity of your calls. It could be as simple as holding a minute of silence at the start of the call.
+	1. Rituals - Practices that help boost the interactivity of your calls. It could be as simple as holding a minute of silence at the start of the call.
 	2. Principles - Values and rules of your Peach, what is especially important to you?
