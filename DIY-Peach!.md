@@ -5,7 +5,7 @@ As inspired by [Patterns for Decentralized Organizing (pamphlet)](https://docs.w
 
 This is a proposal for how you can grow a Peach. A Peach is a kind of working group and method that smaller groups can use to get stuff done within the Consortium. Feel free to deviate from this guide when creating your own Peach.
 
-1. **Compassion Building** - Make time to get to know each other (more)! Some ways to do this: Tell your life story to each other through life charts of highs and lows. Have meetings where you talk about other things than what you usually work with. Distribute care labour and strengthen the team's collective emotional intelligence. Set up a peer-to-peer support system like Stewardship (defined in one of the links above).
+ 1. **Compassion Building** - Make time to get to know each other (more)! Some ways to do this: Tell your life story to each other through sharing highs and lows, for example using life charts. Have meetings where you talk about topics other than what you usually work on. Distribute care labour and strengthen the team's collective emotional intelligence. Set up a peer-to-peer support system like Stewardship (defined in one of the links above).
 
  2. **Interaction Format** - Talk about and document the conclusions for the future:
 	1. Set an intention and desired ourcome for your Peach.
