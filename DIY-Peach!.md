@@ -7,7 +7,7 @@ This is a proposal for how you can grow a Peach. A Peach is a kind of working gr
 
 1. **Compassion Building** - Make time to get to know each other (more)! Some ways to do this: Tell your life story to each other through life charts of highs and lows. Have meetings where you talk about other things than what you usually work with. Distribute care labour and strengthen the team's collective emotional intelligence. Set up a peer-to-peer support system like Stewardship (defined in one of the links above).
 
-2. **Interaction Format** - Talk about and save the conclusions for the future:
+ 2. **Interaction Format** - Talk about and document the conclusions for the future:
 	1. Set an intention and desired ourcome for your Peach.
 	2. Communicate expectations. How do you plan to contribute? How much time and with what kind of work scope? Be as specific as possible to help avoid missunderstandings or boundary crossings. 
 	3. Decide how you will work together / when. Async/Meeting dates/Schedules etc.
