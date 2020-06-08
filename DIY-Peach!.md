@@ -10,7 +10,7 @@ This is a proposal for how you can grow a Peach. A Peach is a kind of working gr
  2. **Interaction Format** - Talk about and document the conclusions for the future:
 	1. Set an intention and desired ourcome for your Peach.
 	2. Communicate expectations. How do you plan to contribute? How much time and with what kind of work scope? Be as specific as possible to help avoid missunderstandings or boundary crossings. 
-	3. Decide how you will work together / when. Async/Meeting dates/Schedules etc.
+	3. Decide how you will work together / when. Async/meeting dates/schedules etc.
 	4. Decide how you will communicate. Where will you communicate? What are the expectations of response time?
 	5. Action Item Tracking System - How do we track what needs to be done?
 
