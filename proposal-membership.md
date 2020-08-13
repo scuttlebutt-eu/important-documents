@@ -13,13 +13,22 @@
 4. Be a natural person.
 5. If not a member for the last 12 months:
     1. Publicly introduced themselves to the existing members (ex: background, motivation, skills, etc.)
-    2. Have made recognized contributions to the larger SSB community (ex: tools, artwork, community gardening, volunteering, etc.)
 6. If a member for the last 12 months: 
     1. Voted in the last annual general assembly
     2. Have volunteered in the last 12 months on tasks required to keep the consortium running and reported those contributions
     3. Have attended at least 1 of the last 3 physical gatherings.
 
 If a member fails to maintain their active status by omitting to fulfill some of the criteria above, they become an “Inactive Member” for up to a year, and lose voting rights. An active member will contact them to understand why. The “Inactive Member” can then choose to: (1) fulfill the criteria to become “Active” again, or (2) become a “Past Member”. In the absence of answer, after one year of “Inactive” status, they automatically become “Past Members”. (see “Recognizing Past Members” below)
+
+### Vouching Functions
+
+Vouching serves two functions: 
+  1. enable active members to invite a new person to become a member of the consortium  
+  2. sharing ongoing appreciation and responsibility for the impact of the vouchee on the rest of the consortium after.
+  
+When inviting a new member in the consortium, the voucher should ensure that their presence will improve the strengh of the consortium. Voucher are therefore encouraged to assess whether the new member has compatible values, relevant skills, and has sufficient motivation to actively contribute. One way to assess all three at the same time is to review past contributions to the larger SSB project: e.g. tools built with or for SSB, artwork created, volunteering in maintaining the code base or helping with community gardening, etc. Other ways of assessing the member are of course also possible and are left to the discretion of the voucher. 
+
+After a new member has been accepted in the consortium, vouchers now share an ongoing responsibility towards the impact of that member on the consortium. This has both positive and negative implications. On the positive side, additional existing members may also decide to vouch for the new member: the more vouchers a member gets, the stronger others would like them to stay. The real weight of vouching however manifests when conflicts arise: vouchers then have a responsibility to help defuse and mediate conflicts, if the vouchee cannot or would not resolve them alone. If a voucher cannot or would not hold that responsibility, they should remove their vouching. In effect, vouching means: "I appreciate this person's contributions enough that I am willing to share the emotional burden of ensuring they can keep participating".
 
 ### Membership Split
 
