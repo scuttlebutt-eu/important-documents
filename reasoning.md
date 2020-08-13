@@ -1,4 +1,4 @@
-# Reasoning Behind European SSB Collective Rules
+# Reasoning Behind the European SSB Collective's Rules
 
 In order to function as an organization, we need some rules that lay the foundation for how we work. In our experience on Scuttlebutt, we've learned that a central question about making decisions is _who gets to have a say_. On Scuttlebutt, this is very difficult to answer, because "the community" is an amorphos blob, so there is no such thing as a clear consensus.
 
