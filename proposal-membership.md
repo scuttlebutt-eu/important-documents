@@ -24,7 +24,7 @@ If a member fails to maintain their active status by omitting to fulfill some of
 
 Vouching serves two functions: 
   1. enable active members to invite a new person to become a member of the consortium  
-  2. sharing ongoing appreciation and responsibility for the impact of the vouchee on the rest of the consortium after.
+  2. share ongoing appreciation and responsibility for the impact of the vouchee on the rest of the consortium after.
   
 When inviting a new member in the consortium, the voucher should ensure that their presence will improve the strengh of the consortium. Voucher are therefore encouraged to assess whether the new member has compatible values, relevant skills, and has sufficient motivation to actively contribute. One way to assess all three at the same time is to review past contributions to the larger SSB project: e.g. tools built with or for SSB, artwork created, volunteering in maintaining the code base or helping with community gardening, etc. Other ways of assessing the member are of course also possible and are left to the discretion of the voucher. 
 
