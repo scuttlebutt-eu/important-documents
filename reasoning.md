@@ -11,11 +11,15 @@ To find good answers to these questions - or rather, to define what "good" means
 
 To achieve the first goal we use a vouching-based process for admitting new members and keeping existing members. This both allows unbureaucrating admission of new members and a baseline level of transitive trust. To achieve the second goal we require frequent collaboration and engagement.
 
-## Trust-Based Membership
+## Trust-Based and Care-based Membership
 
 To achieve a balance between low bureaucracy and admission hurdles, and a good level of baseline trust within the consortium, new members need to be vouched for by at least three existing (active) members. This way we can avoid both low-trust situations between consortium members due to an influx of randos ("rando" is a technical Scuttlebutt term describing someone who entered the scuttleverse with no prior trust relations to anyone else on the network) as well as a high barrier to entry, e.g. if we would be voting on admitting new members.
 
 The vouching system remains important after admission: If someone misbehaves and vouchers decide to revoke their trust, a member can be ejected from the consortium if their number of vouchers drops below three. Should a minority stick to vouching for someone, the other members may choose to revoke their trust as well, in which case the minority would fork off from the consortium. In a way, this system generalizes over kicking someone out and forking off the consortium. Note that having a clear protocol for forks is not only be helpful in the case of individual misbehaviour, but also when differences in vision crop up.
+
+The quality of the membership depends on the judgement of vouchers. Vouchers are encouraged to assess whether new potential members have compatible values, relevant skills, and sufficient motivation to actually contribute. One possible way is to review past contributions to the larger SSB project: e.g. tools built with or for SSB, artwork created, volunteering in maintaining the code base or helping with community gardening, etc. Other ways are also possible and encouraged.
+
+Vouching also means to care for another member. That includes helping them integrate well into the consortium when they join initially, including explaining why things work a certain way and clarifying how to participate. Importantly, it also means helping dealing with conflicts or tensions that result from a member participation, if they are unable to do so themselves. In this way, the responsibility of dealing with potential conflicts is spread throughout the consortium and the risk of bringing a new member is carried by those that invited them.   
 
 ## Active Membership
 
