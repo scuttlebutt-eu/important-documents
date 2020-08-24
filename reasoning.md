@@ -6,7 +6,7 @@ To resolve that question in the collective, we introduce membership. Only member
 
 To find good answers to these questions - or rather, to define what "good" means - we first specify our goals. A good answer achieves these goals more than others. Our goals are:
 
-1. that membership is based on trust of other collectivecollective members
+1. that membership is based on trust of other collective members
 2. that memberships are active
 
 To achieve the first goal we use a vouching-based process for admitting new members and keeping existing members. This both allows unbureaucrating admission of new members and a baseline level of transitive trust. To achieve the second goal we require frequent collaboration and engagement.
