@@ -27,7 +27,7 @@ After fulfilling the criteria above, new members are added to a Signal group rep
 When you vouch for another member, it means: "I trust this person and their abilities to participate fruitfully in the collective. I take on the responsibility of introducing the rules and spirit of the collective, and agree to intermediate if they are part of or cause conflicts."
 
 Vouchings are internal - public within the collective but private from non-members. For now, vouching relies on messages on Signal and your memory. Your responsibility in vouching also includes knowing who else vouches for the same person. Participate in the following ways:
-  1. **Add a vouch**: internally message the other members of the Signal group mentioning who you are vouching for. This is also a good time to celebrate and publicly express the good things about your new vouchee!
+  1. **Add a vouch**: internally message the other members of the Signal group mentioning who you are vouching for. This is also a good time to celebrate and express the good things about your new vouchee!
   2. **Remove a vouch**: internally message the other members and mention who you stop vouching for. The situation might call for a bit more tact and privacy: if necessary, privately message those who still vouch for that person to discuss a course of action.
   3. **Query**: query by messaging other members, internally or privately, about the vouching status of another member.
 
