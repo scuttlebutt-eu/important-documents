@@ -89,4 +89,4 @@ Some violations need to be considered and consulted upon with more people or in 
 
 If you feel comfortable or able, discuss the issues with the involved parties before consulting a conflict mediator. We prefer to constructively resolve disagreements together and work to right the wrong, when it is possible and safe to do so. However, if the problems still persist, those who are responsible for enforcing the code of conduct can help you deal with these kinds of problems. Contact the members listed above. Information will be handled with sensitivity.
 
-The member of the intervention group will be changed based on a rotational system, the specifics of which will be defined in a separate document.
+The members of the intervention group will be changed based on a rotational system, the specifics of which will be defined in a separate document.
