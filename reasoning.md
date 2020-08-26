@@ -19,7 +19,7 @@ The vouching system remains important after admission: If someone misbehaves and
 
 The quality of the membership depends on the judgement of vouchers. Vouchers are encouraged to assess whether new potential members have compatible values, relevant skills, and sufficient motivation to actually contribute. One possible way is to review past contributions to the larger SSB project: e.g. tools built with or for SSB, artwork created, volunteering in maintaining the code base or helping with community gardening, etc. Other ways are also possible and encouraged.
 
-Vouching also means to care for another member. That includes helping them integrate well into the consortium when they join initially, including explaining why things work a certain way and clarifying how to participate. Importantly, it also means helping dealing with conflicts or tensions that result from a member participation, if they are unable to do so themselves. In this way, the responsibility of dealing with potential conflicts is spread throughout the consortium and the risk of bringing a new member is carried by those that invited them.   
+Vouching also means to care for another member. That includes helping them integrate well into the collective when they join initially, including explaining why things work a certain way and clarifying how to participate. Importantly, it also means helping dealing with conflicts or tensions that result from a member participation, if they are unable to do so themselves. In this way, the responsibility of dealing with potential conflicts is spread throughout the collective and the risk of bringing a new member is carried by those that invited them.   
 
 ## Active Membership
 
