@@ -34,7 +34,9 @@ microcontrollers, etc.
 **Confirmed members**:
 * SoapDog
 * Daan 
-* Staltz 
+* Staltz
+* Glyph
+* Keks
 
 ### The Bun Depot
 Pushing clients forward, taking on incoming
